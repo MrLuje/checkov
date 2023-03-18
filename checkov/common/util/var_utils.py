@@ -10,6 +10,7 @@ TF_PROVIDER_PREFIXES = (
     "azurerm_",
     "azuread_",
     "digitalocean_",
+    "flexibleengine_"
     "google_",
     "github_",
     "kubernetes_",
